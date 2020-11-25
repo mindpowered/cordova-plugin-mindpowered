@@ -1,0 +1,22 @@
+{
+    "name": "cordova-plugin-mindpowered",
+    "version": "0.0.1",
+    "description": "Contains Packages by Mind Powered Corporation",
+    "cordova": {
+        "id": "cordova-plugin-mindpowered",
+        "platforms": []
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mindpowered/cordova-plugin-mindpowered.git"
+    },
+    "keywords": [
+        "ecosystem:cordova"
+    ],
+    "author": "Mind Powered Corporation",
+    "license": "CPAL-1.0",
+    "bugs": {
+        "url": "https://github.com/mindpowered/cordova-plugin-mindpowered/issues"
+    },
+    "homepage": "https://mindpowered.dev"
+}
